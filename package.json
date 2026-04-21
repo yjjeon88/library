@@ -1,0 +1,15 @@
+{
+  "name": "bookshelf",
+  "version": "1.0.0",
+  "description": "개인 서재 정적 사이트",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/scrape-covers.mjs",
+    "build": "node scripts/build-site.mjs",
+    "all": "node scripts/scrape-covers.mjs && node scripts/build-site.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
