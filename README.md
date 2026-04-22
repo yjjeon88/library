@@ -1,6 +1,6 @@
 # 나의 서재
 
-**🔗 라이브 사이트: https://yjjeon88.github.io/library/**
+**🔗 라이브 사이트: https://yjjeon1988.github.io/library/**
 
 노션 독서 DB → yes24 표지 스크래핑 → 정적 HTML 서재 → GitHub Pages 자동 배포.
 
@@ -28,7 +28,7 @@
 
 **사용자가 할 일:** 노션에 책 추가만 하면 끝.
 
-즉시 반영하고 싶으면 [Actions 탭](https://github.com/yjjeon88/library/actions)에서 "Run workflow" 수동 실행.
+즉시 반영하고 싶으면 [Actions 탭](https://github.com/yjjeon1988/library/actions)에서 "Run workflow" 수동 실행.
 
 ## 로컬 개발
 
