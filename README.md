@@ -1,5 +1,7 @@
 # 나의 서재
 
+**🔗 라이브 사이트: https://yjjeon88.github.io/library/**
+
 노션 독서 DB → yes24 표지 스크래핑 → 정적 HTML 서재 → GitHub Pages 자동 배포.
 
 ## 구조
